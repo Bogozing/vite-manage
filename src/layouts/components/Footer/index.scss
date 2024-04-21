@@ -1,0 +1,12 @@
+.footer {
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  a {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.88);
+    text-decoration: none;
+    letter-spacing: 0.5px;
+  }
+}
